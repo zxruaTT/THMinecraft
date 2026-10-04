@@ -15,7 +15,7 @@ Repo includes the following:
 
   - Contains names and links to Curseforge website for the two shader packs that are being used.
 
-Current running [**Minecraft**] version: _1.20.1 Java_
+Current running [**Minecraft**] version: _1.20.1 Java_ \
 Current running [**Forge**] version: _47.4.10_
 
 To view each list with hyperlinks, make sure to download the files locally to your machine (or copy the link for whichever mod you so choose directly from the preview).
