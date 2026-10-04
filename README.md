@@ -18,6 +18,8 @@ Repo includes the following:
 Current running [**Minecraft**] version: _1.20.1 Java_
 Current running [**Forge**] version: _47.4.10_
 
+To view each list with hyperlinks, make sure to download the files locally to your machine (or copy the link for whichever mod you so choose directly from the preview).
+
 Mods, resource packs, and shaders can be reviewed and downloaded via Curseforge at each of the links provided in above mentioned links. 
 Please keep in mind that some mods have dependencies that are needed for the mod to work correctly, and some resource packs require parent mod to be installed to work properly. 
 The above lists do not outline which mod has which dependency; Curseforge usually installs required dependencies when installing mods.
